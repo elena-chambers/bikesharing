@@ -1,4 +1,5 @@
-# bikesharing
+# Bikesharing
+Tableau Story accessed at: https://public.tableau.com/app/profile/elena.chambers/viz/Mod14Challenge_16413573105330/Story1
 
 ## Overview
 Analysis of Citi Bike data in New York, New York. Trends in data will be used to determine if Citi Bikes could implemeted in Des Moines Iowa.
